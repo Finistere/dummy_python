@@ -1,0 +1,7 @@
+# Tells pip that setuptools and wheel will be used for the installation
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"

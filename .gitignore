@@ -1,0 +1,6 @@
+.envrc
+shell.nix
+.venv/
+/src/*.egg-info/
+.idea/
+**/__pycache__
